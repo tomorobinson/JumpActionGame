@@ -1,0 +1,264 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/tomokazukawano/Documents/JumpActionGame/android/AndroidManifest.xml:2:1-37:12
+INJECTED from /Users/tomokazukawano/Documents/JumpActionGame/android/AndroidManifest.xml:2:1-37:12
+INJECTED from /Users/tomokazukawano/Documents/JumpActionGame/android/AndroidManifest.xml:2:1-37:12
+INJECTED from /Users/tomokazukawano/Documents/JumpActionGame/android/AndroidManifest.xml:2:1-37:12
+MERGED from [com.google.android.gms:play-services:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-7.8.0.aar/4f475ea8fa98669ce23b462de309d15a/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-ads:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-ads-7.8.0.aar/c81cdf48f36159a7102adbabbf282c29/AndroidManifest.xml:16:1-33:12
+MERGED from [com.google.android.gms:play-services-analytics:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-analytics-7.8.0.aar/1c85ee4e12ec45c29bbd37767d2856ea/AndroidManifest.xml:16:1-25:12
+MERGED from [com.google.android.gms:play-services-appindexing:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-appindexing-7.8.0.aar/4c2c559c2410a28543960b58dcbd9acf/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-appinvite:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-7.8.0.aar/05017a2d369fd8895e4eebf05b0e1322/AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.android.gms:play-services-appstate:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-appstate-7.8.0.aar/7ca1f9c94d738633904a1a234966f400/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-cast:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-cast-7.8.0.aar/c9002c21a23c55a215c75f06d1514616/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-games:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-games-7.8.0.aar/96e9fb21b9a9b0f20f49c83eea66384e/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-drive:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-drive-7.8.0.aar/638b2d5d101181c04e5717259d9e9a32/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-fitness:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-fitness-7.8.0.aar/a3b5c52e56fe6e4ef6bad0c79c8f766e/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-gcm:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-gcm-7.8.0.aar/739419888ff9e9b62358894c8dc119eb/AndroidManifest.xml:16:1-25:12
+MERGED from [com.google.android.gms:play-services-wallet:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-wallet-7.8.0.aar/bc866f3b7d4275acf81054209ceb3741/AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-identity:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-identity-7.8.0.aar/1071710ddefcca4241d5d1c791f48689/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-location:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-location-7.8.0.aar/ea8c154d91212403a347fadc73e9b67e/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-maps:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-maps-7.8.0.aar/f03c4735cd48ed60b870db52bf922a09/AndroidManifest.xml:16:1-29:12
+MERGED from [com.google.android.gms:play-services-nearby:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-nearby-7.8.0.aar/8073ec6c1616e664b982b9c6c3275d66/AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.android.gms:play-services-panorama:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-panorama-7.8.0.aar/b0b33bc28ce64774dff18603bbdb1f19/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-plus:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-plus-7.8.0.aar/69f39aab7ba251ef919a440edb44703c/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-safetynet:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-7.8.0.aar/babfcf81de6dc5232ed3696894f2fc50/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-vision:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-vision-7.8.0.aar/00f36b6fd42b8043022eb55c9260146e/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-wearable:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-wearable-7.8.0.aar/852eb8f88f562359d44849c24d70579c/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-base:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-base-7.8.0.aar/f3a0dcf7d1c9eae37b8d87296d0d3016/AndroidManifest.xml:16:1-26:12
+MERGED from [com.android.support:mediarouter-v7:22.2.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.2.0.aar/24d8b83b4004793e3194181e0d0015b7/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:22.2.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.0.aar/cd3a0bed6f4353092c70298a05caa638/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-v4:22.2.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/support-v4-22.2.0.aar/688ee2ca66e06a20296e5ad993fd2912/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/tomokazukawano/Documents/JumpActionGame/android/AndroidManifest.xml:2:1-37:12
+INJECTED from /Users/tomokazukawano/Documents/JumpActionGame/android/AndroidManifest.xml:2:1-37:12
+INJECTED from /Users/tomokazukawano/Documents/JumpActionGame/android/AndroidManifest.xml:2:1-37:12
+	package
+		ADDED from /Users/tomokazukawano/Documents/JumpActionGame/android/AndroidManifest.xml:3:5-60
+		INJECTED from /Users/tomokazukawano/Documents/JumpActionGame/android/AndroidManifest.xml
+		INJECTED from /Users/tomokazukawano/Documents/JumpActionGame/android/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/tomokazukawano/Documents/JumpActionGame/android/AndroidManifest.xml
+		ADDED from /Users/tomokazukawano/Documents/JumpActionGame/android/AndroidManifest.xml:2:1-37:12
+		INJECTED from /Users/tomokazukawano/Documents/JumpActionGame/android/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/tomokazukawano/Documents/JumpActionGame/android/AndroidManifest.xml
+		ADDED from /Users/tomokazukawano/Documents/JumpActionGame/android/AndroidManifest.xml:2:1-37:12
+		INJECTED from /Users/tomokazukawano/Documents/JumpActionGame/android/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/tomokazukawano/Documents/JumpActionGame/android/AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from /Users/tomokazukawano/Documents/JumpActionGame/android/AndroidManifest.xml:5:5-73
+INJECTED from /Users/tomokazukawano/Documents/JumpActionGame/android/AndroidManifest.xml:5:5-73
+INJECTED from /Users/tomokazukawano/Documents/JumpActionGame/android/AndroidManifest.xml:5:5-73
+MERGED from [com.google.android.gms:play-services:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-7.8.0.aar/4f475ea8fa98669ce23b462de309d15a/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-7.8.0.aar/4f475ea8fa98669ce23b462de309d15a/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-ads:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-ads-7.8.0.aar/c81cdf48f36159a7102adbabbf282c29/AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-ads:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-ads-7.8.0.aar/c81cdf48f36159a7102adbabbf282c29/AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-analytics:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-analytics-7.8.0.aar/1c85ee4e12ec45c29bbd37767d2856ea/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-analytics:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-analytics-7.8.0.aar/1c85ee4e12ec45c29bbd37767d2856ea/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appindexing:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-appindexing-7.8.0.aar/4c2c559c2410a28543960b58dcbd9acf/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appindexing:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-appindexing-7.8.0.aar/4c2c559c2410a28543960b58dcbd9acf/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appinvite:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-7.8.0.aar/05017a2d369fd8895e4eebf05b0e1322/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appinvite:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-7.8.0.aar/05017a2d369fd8895e4eebf05b0e1322/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appstate:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-appstate-7.8.0.aar/7ca1f9c94d738633904a1a234966f400/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appstate:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-appstate-7.8.0.aar/7ca1f9c94d738633904a1a234966f400/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-cast:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-cast-7.8.0.aar/c9002c21a23c55a215c75f06d1514616/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-cast:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-cast-7.8.0.aar/c9002c21a23c55a215c75f06d1514616/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-games:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-games-7.8.0.aar/96e9fb21b9a9b0f20f49c83eea66384e/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-games:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-games-7.8.0.aar/96e9fb21b9a9b0f20f49c83eea66384e/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-drive:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-drive-7.8.0.aar/638b2d5d101181c04e5717259d9e9a32/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-drive:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-drive-7.8.0.aar/638b2d5d101181c04e5717259d9e9a32/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-fitness:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-fitness-7.8.0.aar/a3b5c52e56fe6e4ef6bad0c79c8f766e/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-fitness:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-fitness-7.8.0.aar/a3b5c52e56fe6e4ef6bad0c79c8f766e/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-gcm:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-gcm-7.8.0.aar/739419888ff9e9b62358894c8dc119eb/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-gcm:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-gcm-7.8.0.aar/739419888ff9e9b62358894c8dc119eb/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-wallet:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-wallet-7.8.0.aar/bc866f3b7d4275acf81054209ceb3741/AndroidManifest.xml:19:5-42
+MERGED from [com.google.android.gms:play-services-wallet:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-wallet-7.8.0.aar/bc866f3b7d4275acf81054209ceb3741/AndroidManifest.xml:19:5-42
+MERGED from [com.google.android.gms:play-services-identity:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-identity-7.8.0.aar/1071710ddefcca4241d5d1c791f48689/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-identity:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-identity-7.8.0.aar/1071710ddefcca4241d5d1c791f48689/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-location:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-location-7.8.0.aar/ea8c154d91212403a347fadc73e9b67e/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-location:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-location-7.8.0.aar/ea8c154d91212403a347fadc73e9b67e/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-maps:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-maps-7.8.0.aar/f03c4735cd48ed60b870db52bf922a09/AndroidManifest.xml:27:5-42
+MERGED from [com.google.android.gms:play-services-maps:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-maps-7.8.0.aar/f03c4735cd48ed60b870db52bf922a09/AndroidManifest.xml:27:5-42
+MERGED from [com.google.android.gms:play-services-nearby:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-nearby-7.8.0.aar/8073ec6c1616e664b982b9c6c3275d66/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-nearby:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-nearby-7.8.0.aar/8073ec6c1616e664b982b9c6c3275d66/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-panorama:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-panorama-7.8.0.aar/b0b33bc28ce64774dff18603bbdb1f19/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-panorama:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-panorama-7.8.0.aar/b0b33bc28ce64774dff18603bbdb1f19/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-plus:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-plus-7.8.0.aar/69f39aab7ba251ef919a440edb44703c/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-plus:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-plus-7.8.0.aar/69f39aab7ba251ef919a440edb44703c/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-safetynet:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-7.8.0.aar/babfcf81de6dc5232ed3696894f2fc50/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-safetynet:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-7.8.0.aar/babfcf81de6dc5232ed3696894f2fc50/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-vision:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-vision-7.8.0.aar/00f36b6fd42b8043022eb55c9260146e/AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-vision:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-vision-7.8.0.aar/00f36b6fd42b8043022eb55c9260146e/AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-wearable:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-wearable-7.8.0.aar/852eb8f88f562359d44849c24d70579c/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-wearable:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-wearable-7.8.0.aar/852eb8f88f562359d44849c24d70579c/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-base-7.8.0.aar/f3a0dcf7d1c9eae37b8d87296d0d3016/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-base-7.8.0.aar/f3a0dcf7d1c9eae37b8d87296d0d3016/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:mediarouter-v7:22.2.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.2.0.aar/24d8b83b4004793e3194181e0d0015b7/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:mediarouter-v7:22.2.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.2.0.aar/24d8b83b4004793e3194181e0d0015b7/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:22.2.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.0.aar/cd3a0bed6f4353092c70298a05caa638/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:22.2.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.0.aar/cd3a0bed6f4353092c70298a05caa638/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.2.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/support-v4-22.2.0.aar/688ee2ca66e06a20296e5ad993fd2912/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.2.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/support-v4-22.2.0.aar/688ee2ca66e06a20296e5ad993fd2912/AndroidManifest.xml:20:5-43
+INJECTED from /Users/tomokazukawano/Documents/JumpActionGame/android/AndroidManifest.xml:5:5-73
+INJECTED from /Users/tomokazukawano/Documents/JumpActionGame/android/AndroidManifest.xml:5:5-73
+	android:targetSdkVersion
+		ADDED from /Users/tomokazukawano/Documents/JumpActionGame/android/AndroidManifest.xml:5:41-70
+		INJECTED from /Users/tomokazukawano/Documents/JumpActionGame/android/AndroidManifest.xml
+		INJECTED from /Users/tomokazukawano/Documents/JumpActionGame/android/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/tomokazukawano/Documents/JumpActionGame/android/AndroidManifest.xml:5:15-40
+		INJECTED from /Users/tomokazukawano/Documents/JumpActionGame/android/AndroidManifest.xml
+		INJECTED from /Users/tomokazukawano/Documents/JumpActionGame/android/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/tomokazukawano/Documents/JumpActionGame/android/AndroidManifest.xml:7:5-66
+MERGED from [com.google.android.gms:play-services-ads:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-ads-7.8.0.aar/c81cdf48f36159a7102adbabbf282c29/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-ads:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-ads-7.8.0.aar/c81cdf48f36159a7102adbabbf282c29/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-analytics-7.8.0.aar/1c85ee4e12ec45c29bbd37767d2856ea/AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-analytics:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-analytics-7.8.0.aar/1c85ee4e12ec45c29bbd37767d2856ea/AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-appinvite:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-7.8.0.aar/05017a2d369fd8895e4eebf05b0e1322/AndroidManifest.xml:19:5-67
+MERGED from [com.google.android.gms:play-services-appinvite:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-7.8.0.aar/05017a2d369fd8895e4eebf05b0e1322/AndroidManifest.xml:19:5-67
+MERGED from [com.google.android.gms:play-services-gcm:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-gcm-7.8.0.aar/739419888ff9e9b62358894c8dc119eb/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-gcm:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-gcm-7.8.0.aar/739419888ff9e9b62358894c8dc119eb/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-wallet:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-wallet-7.8.0.aar/bc866f3b7d4275acf81054209ceb3741/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-wallet:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-wallet-7.8.0.aar/bc866f3b7d4275acf81054209ceb3741/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-maps-7.8.0.aar/f03c4735cd48ed60b870db52bf922a09/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-maps:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-maps-7.8.0.aar/f03c4735cd48ed60b870db52bf922a09/AndroidManifest.xml:21:5-66
+	android:name
+		ADDED from /Users/tomokazukawano/Documents/JumpActionGame/android/AndroidManifest.xml:7:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/tomokazukawano/Documents/JumpActionGame/android/AndroidManifest.xml:8:5-78
+MERGED from [com.google.android.gms:play-services-ads:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-ads-7.8.0.aar/c81cdf48f36159a7102adbabbf282c29/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-ads:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-ads-7.8.0.aar/c81cdf48f36159a7102adbabbf282c29/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-analytics-7.8.0.aar/1c85ee4e12ec45c29bbd37767d2856ea/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-analytics:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-analytics-7.8.0.aar/1c85ee4e12ec45c29bbd37767d2856ea/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-maps:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-maps-7.8.0.aar/f03c4735cd48ed60b870db52bf922a09/AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-maps:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-maps-7.8.0.aar/f03c4735cd48ed60b870db52bf922a09/AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-nearby:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-nearby-7.8.0.aar/8073ec6c1616e664b982b9c6c3275d66/AndroidManifest.xml:19:5-79
+MERGED from [com.google.android.gms:play-services-nearby:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-nearby-7.8.0.aar/8073ec6c1616e664b982b9c6c3275d66/AndroidManifest.xml:19:5-79
+	android:name
+		ADDED from /Users/tomokazukawano/Documents/JumpActionGame/android/AndroidManifest.xml:8:22-76
+meta-data#com.google.android.gms.version
+ADDED from /Users/tomokazukawano/Documents/JumpActionGame/android/AndroidManifest.xml:11:5-12:65
+	android:value
+		ADDED from /Users/tomokazukawano/Documents/JumpActionGame/android/AndroidManifest.xml:12:9-62
+	android:name
+		ADDED from /Users/tomokazukawano/Documents/JumpActionGame/android/AndroidManifest.xml:11:16-61
+application
+ADDED from /Users/tomokazukawano/Documents/JumpActionGame/android/AndroidManifest.xml:14:5-35:19
+MERGED from [com.google.android.gms:play-services:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-7.8.0.aar/4f475ea8fa98669ce23b462de309d15a/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-7.8.0.aar/4f475ea8fa98669ce23b462de309d15a/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-ads:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-ads-7.8.0.aar/c81cdf48f36159a7102adbabbf282c29/AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.android.gms:play-services-ads:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-ads-7.8.0.aar/c81cdf48f36159a7102adbabbf282c29/AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.android.gms:play-services-analytics:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-analytics-7.8.0.aar/1c85ee4e12ec45c29bbd37767d2856ea/AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-analytics:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-analytics-7.8.0.aar/1c85ee4e12ec45c29bbd37767d2856ea/AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-appindexing-7.8.0.aar/4c2c559c2410a28543960b58dcbd9acf/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-appindexing-7.8.0.aar/4c2c559c2410a28543960b58dcbd9acf/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-appinvite:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-7.8.0.aar/05017a2d369fd8895e4eebf05b0e1322/AndroidManifest.xml:20:5-20
+MERGED from [com.google.android.gms:play-services-appinvite:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-7.8.0.aar/05017a2d369fd8895e4eebf05b0e1322/AndroidManifest.xml:20:5-20
+MERGED from [com.google.android.gms:play-services-appstate:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-appstate-7.8.0.aar/7ca1f9c94d738633904a1a234966f400/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-appstate:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-appstate-7.8.0.aar/7ca1f9c94d738633904a1a234966f400/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-cast:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-cast-7.8.0.aar/c9002c21a23c55a215c75f06d1514616/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-cast:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-cast-7.8.0.aar/c9002c21a23c55a215c75f06d1514616/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-games:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-games-7.8.0.aar/96e9fb21b9a9b0f20f49c83eea66384e/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-games:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-games-7.8.0.aar/96e9fb21b9a9b0f20f49c83eea66384e/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-drive:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-drive-7.8.0.aar/638b2d5d101181c04e5717259d9e9a32/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-drive:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-drive-7.8.0.aar/638b2d5d101181c04e5717259d9e9a32/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-fitness:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-fitness-7.8.0.aar/a3b5c52e56fe6e4ef6bad0c79c8f766e/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-fitness:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-fitness-7.8.0.aar/a3b5c52e56fe6e4ef6bad0c79c8f766e/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-gcm:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-gcm-7.8.0.aar/739419888ff9e9b62358894c8dc119eb/AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-gcm:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-gcm-7.8.0.aar/739419888ff9e9b62358894c8dc119eb/AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-identity:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-identity-7.8.0.aar/1071710ddefcca4241d5d1c791f48689/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-identity:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-identity-7.8.0.aar/1071710ddefcca4241d5d1c791f48689/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-location:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-location-7.8.0.aar/ea8c154d91212403a347fadc73e9b67e/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-location:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-location-7.8.0.aar/ea8c154d91212403a347fadc73e9b67e/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-maps:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-maps-7.8.0.aar/f03c4735cd48ed60b870db52bf922a09/AndroidManifest.xml:28:5-20
+MERGED from [com.google.android.gms:play-services-maps:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-maps-7.8.0.aar/f03c4735cd48ed60b870db52bf922a09/AndroidManifest.xml:28:5-20
+MERGED from [com.google.android.gms:play-services-nearby:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-nearby-7.8.0.aar/8073ec6c1616e664b982b9c6c3275d66/AndroidManifest.xml:20:5-20
+MERGED from [com.google.android.gms:play-services-nearby:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-nearby-7.8.0.aar/8073ec6c1616e664b982b9c6c3275d66/AndroidManifest.xml:20:5-20
+MERGED from [com.google.android.gms:play-services-panorama:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-panorama-7.8.0.aar/b0b33bc28ce64774dff18603bbdb1f19/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-panorama:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-panorama-7.8.0.aar/b0b33bc28ce64774dff18603bbdb1f19/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-plus:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-plus-7.8.0.aar/69f39aab7ba251ef919a440edb44703c/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-plus:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-plus-7.8.0.aar/69f39aab7ba251ef919a440edb44703c/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-7.8.0.aar/babfcf81de6dc5232ed3696894f2fc50/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-7.8.0.aar/babfcf81de6dc5232ed3696894f2fc50/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-vision:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-vision-7.8.0.aar/00f36b6fd42b8043022eb55c9260146e/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-vision:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-vision-7.8.0.aar/00f36b6fd42b8043022eb55c9260146e/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-wearable:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-wearable-7.8.0.aar/852eb8f88f562359d44849c24d70579c/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-wearable:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-wearable-7.8.0.aar/852eb8f88f562359d44849c24d70579c/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-base-7.8.0.aar/f3a0dcf7d1c9eae37b8d87296d0d3016/AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-base:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-base-7.8.0.aar/f3a0dcf7d1c9eae37b8d87296d0d3016/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:mediarouter-v7:22.2.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.2.0.aar/24d8b83b4004793e3194181e0d0015b7/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:mediarouter-v7:22.2.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-22.2.0.aar/24d8b83b4004793e3194181e0d0015b7/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:22.2.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.0.aar/cd3a0bed6f4353092c70298a05caa638/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:22.2.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/appcompat-v7-22.2.0.aar/cd3a0bed6f4353092c70298a05caa638/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.2.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/support-v4-22.2.0.aar/688ee2ca66e06a20296e5ad993fd2912/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.2.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/support-v4-22.2.0.aar/688ee2ca66e06a20296e5ad993fd2912/AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from /Users/tomokazukawano/Documents/JumpActionGame/android/AndroidManifest.xml:17:9-41
+	android:icon
+		ADDED from /Users/tomokazukawano/Documents/JumpActionGame/android/AndroidManifest.xml:16:9-45
+	android:allowBackup
+		ADDED from /Users/tomokazukawano/Documents/JumpActionGame/android/AndroidManifest.xml:15:9-35
+	android:theme
+		ADDED from /Users/tomokazukawano/Documents/JumpActionGame/android/AndroidManifest.xml:18:9-40
+activity#jp.techacademy.tomokazu.kawano.jumpactiongame.AndroidLauncher
+ADDED from /Users/tomokazukawano/Documents/JumpActionGame/android/AndroidManifest.xml:20:9-29:20
+	android:screenOrientation
+		ADDED from /Users/tomokazukawano/Documents/JumpActionGame/android/AndroidManifest.xml:23:13-49
+	android:label
+		ADDED from /Users/tomokazukawano/Documents/JumpActionGame/android/AndroidManifest.xml:22:13-45
+	android:configChanges
+		ADDED from /Users/tomokazukawano/Documents/JumpActionGame/android/AndroidManifest.xml:24:13-107
+	android:name
+		ADDED from /Users/tomokazukawano/Documents/JumpActionGame/android/AndroidManifest.xml:21:13-89
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/tomokazukawano/Documents/JumpActionGame/android/AndroidManifest.xml:25:13-28:29
+action#android.intent.action.MAIN
+ADDED from /Users/tomokazukawano/Documents/JumpActionGame/android/AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from /Users/tomokazukawano/Documents/JumpActionGame/android/AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/tomokazukawano/Documents/JumpActionGame/android/AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from /Users/tomokazukawano/Documents/JumpActionGame/android/AndroidManifest.xml:27:27-74
+activity#com.google.android.gms.ads.AdActivity
+ADDED from /Users/tomokazukawano/Documents/JumpActionGame/android/AndroidManifest.xml:32:9-34:64
+MERGED from [com.google.android.gms:play-services-ads:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-ads-7.8.0.aar/c81cdf48f36159a7102adbabbf282c29/AndroidManifest.xml:26:9-29:64
+MERGED from [com.google.android.gms:play-services-ads:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-ads-7.8.0.aar/c81cdf48f36159a7102adbabbf282c29/AndroidManifest.xml:26:9-29:64
+	android:configChanges
+		ADDED from /Users/tomokazukawano/Documents/JumpActionGame/android/AndroidManifest.xml:33:13-122
+	android:theme
+		ADDED from /Users/tomokazukawano/Documents/JumpActionGame/android/AndroidManifest.xml:34:13-61
+	android:name
+		ADDED from /Users/tomokazukawano/Documents/JumpActionGame/android/AndroidManifest.xml:32:19-71
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [com.google.android.gms:play-services-ads:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-ads-7.8.0.aar/c81cdf48f36159a7102adbabbf282c29/AndroidManifest.xml:30:9-31:52
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-ads-7.8.0.aar/c81cdf48f36159a7102adbabbf282c29/AndroidManifest.xml:31:13-50
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-ads-7.8.0.aar/c81cdf48f36159a7102adbabbf282c29/AndroidManifest.xml:30:19-91
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-gcm-7.8.0.aar/739419888ff9e9b62358894c8dc119eb/AndroidManifest.xml:21:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-gcm-7.8.0.aar/739419888ff9e9b62358894c8dc119eb/AndroidManifest.xml:21:22-79
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from [com.google.android.gms:play-services-wallet:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-wallet-7.8.0.aar/bc866f3b7d4275acf81054209ceb3741/AndroidManifest.xml:21:5-70
+	android:name
+		ADDED from [com.google.android.gms:play-services-wallet:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-wallet-7.8.0.aar/bc866f3b7d4275acf81054209ceb3741/AndroidManifest.xml:21:22-68
+uses-permission#android.permission.USE_CREDENTIALS
+ADDED from [com.google.android.gms:play-services-wallet:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-wallet-7.8.0.aar/bc866f3b7d4275acf81054209ceb3741/AndroidManifest.xml:22:5-73
+	android:name
+		ADDED from [com.google.android.gms:play-services-wallet:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-wallet-7.8.0.aar/bc866f3b7d4275acf81054209ceb3741/AndroidManifest.xml:22:22-71
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [com.google.android.gms:play-services-maps:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-maps-7.8.0.aar/f03c4735cd48ed60b870db52bf922a09/AndroidManifest.xml:22:5-80
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-maps-7.8.0.aar/f03c4735cd48ed60b870db52bf922a09/AndroidManifest.xml:22:22-78
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-maps-7.8.0.aar/f03c4735cd48ed60b870db52bf922a09/AndroidManifest.xml:23:5-25:33
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-maps-7.8.0.aar/f03c4735cd48ed60b870db52bf922a09/AndroidManifest.xml:24:8-40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:7.8.0] /Users/tomokazukawano/.gradle/caches/transforms-1/files-1.1/play-services-maps-7.8.0.aar/f03c4735cd48ed60b870db52bf922a09/AndroidManifest.xml:25:8-31
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Users/tomokazukawano/Documents/JumpActionGame/android/AndroidManifest.xml:2:1-37:12 reason: com.google.android.gms.maps requested WRITE_EXTERNAL_STORAGE
